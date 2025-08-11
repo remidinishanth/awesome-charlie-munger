@@ -1,6 +1,14 @@
 # Awesome Charlie Munger [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources about Charlie Munger
+>
+> **Goals:**
+> - 📚 **One centralized place** to find all of Charlie Munger's resources
+> - 🌐 **Open source collection** from across the internet - not my own content
+> - 🎯 **Share Charlie's wisdom** with a larger audience and make it more accessible
+> - 🤝 **Community-driven** so anyone can contribute and update this repository
+>
+> Resources are collected from various online sources. See the [Credits](#credits) section for references.
 
 <img width="1600" height="933" alt="image" src="https://github.com/user-attachments/assets/0a7dd5f9-3df0-429f-b8a0-78d03a094539" />
 
@@ -9,20 +17,14 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 
 *"In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time -- none, zero."* - Charlie Munger
 
-<p align="left">
-  <a href="https://www.instagram.com/charliemungerquotes/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white">
-  </a>
-</p>
-
 ## Contents
 
 - [Websites](#websites)
 - [Books](#books)
-- [Social Media](#social-media)
 - [Speeches & Transcripts](#speeches--transcripts)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
+- [Social Media](#social-media)
 - [Book Recommendations](#book-recommendations)
   - [Biography & Business](#biography--business)
   - [Science & Mathematics](#science--mathematics)
@@ -52,6 +54,7 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 
 ### Books by Charlie Munger
 
+- [Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger](https://www.stripe.press/poor-charlies-almanack) by Charles T. Munger, Peter E. Kaufman (Editor) - **Stripe Press Edition** (2023) - The most recent and beautifully designed edition
 - [Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018) by Charles T. Munger, Peter E. Kaufman (Editor) - (2005, 21 editions)
 - [Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://www.amazon.com/Poor-Charlies-Almanack-Essential-Wisdom/dp/1578645018) - Alternative edition (2 editions)
 - [The Psychology of Human Misjudgment](https://www.amazon.com/Psychology-Human-Misjudgment-Charles-Munger/dp/B08ZYNQZPX) by Charlie Munger - (2 editions)
@@ -69,15 +72,6 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 ### Compilations & Resources
 
 - [The Comprehensive Charlie Munger PDF](https://github.com/CharlieMungerQuotes/CMQ) - 1000+ page compilation of everything Charlie has written
-
-## Social Media
-
-> List of official and unofficial social media accounts
-
-- [Charlie Munger Quotes (@charliemungerquotes)](https://www.instagram.com/charliemungerquotes/) - Instagram account with 80,000+ followers and 500+ quotes
-- [Charlie Munger Fans (@CharlieMungerFan)](https://twitter.com/CharlieMungerFan) - Twitter account for daily wisdom
-- [Charlie Munger Quotes and Wisdoms](https://twitter.com/CMungerQuotes) - Twitter account sharing Charlie's insights
-- [Charlie Munger Almanack Facebook Group](https://www.facebook.com/groups/charliemungeralmanack) - Active Facebook community for Charlie Munger fans
 
 
 ## Speeches & Transcripts
@@ -137,6 +131,22 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
   - [Charlie Munger & the Mathematical Advantages of Doing Nothing](https://example.com)
   - [How to Buy the Dip Like Charlie Munger](https://example.com)
 - [The Acquirer's Podcast](https://acquirersmultiple.com/podcast/) - Features episodes on Charlie Munger's investment philosophy
+
+## Social Media
+
+> List of official and unofficial social media accounts
+
+### Instagram
+- 📸 [Charlie Munger Quotes (@charliemungerquotes)](https://www.instagram.com/charliemungerquotes/) - Instagram account with 80,000+ followers and 500+ quotes
+
+### Twitter
+- 🐦 [Poor Charlie Bot (@PoorCharlieBot)](https://x.com/PoorCharlieBot) - Automated bot sharing Charlie Munger quotes and wisdom
+
+### Facebook
+- 👥 [Charlie Munger Almanack Facebook Group](https://www.facebook.com/groups/charliemungeralmanack) - Active Facebook community for Charlie Munger fans
+
+### Reddit
+- 🔴 [r/CharlieMunger](https://www.reddit.com/r/CharlieMunger/) - Reddit community for Charlie Munger discussions and insights
 
 ## Book Recommendations
 
@@ -223,6 +233,15 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 - [Charlie Munger's Investment Philosophy](https://papers.ssrn.com/) - Academic papers on Munger's approach
 - [Berkshire Hathaway Annual Reports](https://www.berkshirehathaway.com/reports.html) - Annual shareholder letters
 - [Daily Journal Annual Reports](https://www.dailyjournal.com/investor-relations) - Reports from Munger's other company
+
+## Credits
+
+This collection of resources has been compiled from various online sources to preserve and share Charlie Munger's wisdom. Special thanks to:
+
+- [Worldly Partners - Charlie Munger Archive](https://worldlypartners.com/charlie-munger-archive/) - Comprehensive archive of Charlie Munger's speeches and writings
+- [Farnam Street](https://fs.blog/) - For excellent articles and transcripts of Charlie Munger's speeches
+- [Poor Charlie's Almanack](https://www.stripe.press/poor-charlies-almanack) - The definitive collection of Charlie's wisdom
+- All the authors, publishers, and content creators who have documented Charlie Munger's insights over the years
 
 ## Disclaimer
 
