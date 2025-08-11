@@ -108,7 +108,22 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 - [Berkshire Hathaway Annual Meetings Archive](https://buffett.cnbc.com/warren-buffett-archive/) - Complete archive of meetings with Warren and Charlie
 - [2023 Berkshire Hathaway Annual Meeting](https://www.youtube.com/results?search_query=berkshire+hathaway+2023+annual+meeting) - One of Charlie's final appearances
 
-### Individual Speeches and Interviews
+### Talks
+
+> PDF transcripts and recordings of Charlie Munger's speeches and lectures are available in [`resources/talks/`](resources/talks/)
+
+**Key Speeches & Lectures:**
+- [1986 - Harvard-Westlake Commencement Speech](resources/talks/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf) - "How to Guarantee a Life of Misery"
+- [1994 - USC Business School Lecture](resources/talks/1994-lecture-by-charlie-munger-at-usc-a-lesson-on-elementary-worldly-wisdom-as-it-relates-to-investment.pdf) - "A Lesson on Elementary, Worldly Wisdom"
+- [1995 - Harvard Speech](resources/talks/1995-speech-by-charlie-munger-at-harvard-the-psychology-of-human-misjudgment.pdf) - "The Psychology of Human Misjudgment"
+- [1996 - Stanford Law School](resources/talks/1996-lecture-by-charlie-munger-at-stanford-law-school-worldly-wisdom-revisited-business-what-lawyers-should-know.pdf) - "Worldly Wisdom Revisited"
+- [2000 - Philanthropy Round Table](resources/talks/2000-talk-of-charlie-munger-to-breakfast-meeting-of-the-philanthropy-round-table.pdf) - Talk on Philanthropy
+- [2003 - UCSB Speech](resources/talks/2003-speech-by-charlie-munger-at-ucsb-academic-economics-strengths-and-faults-after-considering-interdisciplinary.pdf) - "Academic Economics: Strengths and Faults"
+- [2005 - Psychology of Human Misjudgment (Revised)](resources/talks/2005_revised_The+Psychology+of+Human+Misjudment.pdf) - Updated version of the famous speech
+- [2007 - USC Law School Commencement](resources/talks/2007-commencement-speech-by-charlie-munger-at-usc-gould-school-of-law.pdf) - Commencement Address
+- [2017 - University of Michigan Ross](resources/talks/2017-a-conversation-with-charlie-munger-at-university-of-michigan-ross.pdf) - Conversation with Students
+
+**Video Versions:**
 - [Charlie Munger - The Psychology of Human Misjudgment](https://www.youtube.com/watch?v=AKxE4RlCgjY) - Famous speech on cognitive biases
 - [Charlie Munger's Secret 4-Step Investing Checklist](https://www.youtube.com/watch?v=e5OAxlI4J14) - Investment methodology
 - [Mental Models of Warren Buffett & Charlie Munger](https://www.youtube.com/watch?v=bWaHNa89qME) - Mental models discussion
