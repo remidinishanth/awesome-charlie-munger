@@ -112,11 +112,14 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 - [1986 - Harvard-Westlake Commencement Speech](resources/talks/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf) - "How to Guarantee a Life of Misery"
 - [1994 - USC Business School Lecture](resources/talks/1994-lecture-by-charlie-munger-at-usc-a-lesson-on-elementary-worldly-wisdom-as-it-relates-to-investment.pdf) - "A Lesson on Elementary, Worldly Wisdom"
 - [1995 - Harvard Speech](resources/talks/1995-speech-by-charlie-munger-at-harvard-the-psychology-of-human-misjudgment.pdf) - "The Psychology of Human Misjudgment"
+- [1995-1998 - Worldly Wisdom](resources/talks/1995_to_1998_Worldly-Wisdom-by-Munger.pdf) - Collection of worldly wisdom insights
 - [1996 - Stanford Law School](resources/talks/1996-lecture-by-charlie-munger-at-stanford-law-school-worldly-wisdom-revisited-business-what-lawyers-should-know.pdf) - "Worldly Wisdom Revisited"
 - [2000 - Philanthropy Round Table](resources/talks/2000-talk-of-charlie-munger-to-breakfast-meeting-of-the-philanthropy-round-table.pdf) - Talk on Philanthropy
 - [2003 - UCSB Speech](resources/talks/2003-speech-by-charlie-munger-at-ucsb-academic-economics-strengths-and-faults-after-considering-interdisciplinary.pdf) - "Academic Economics: Strengths and Faults"
 - [2005 - Psychology of Human Misjudgment (Revised)](resources/talks/2005_revised_The+Psychology+of+Human+Misjudment.pdf) - Updated version of the famous speech
 - [2007 - USC Law School Commencement](resources/talks/2007-commencement-speech-by-charlie-munger-at-usc-gould-school-of-law.pdf) - Commencement Address
+- [2011 - A Parody About the Great Recession](resources/talks/2011-a-parody-about-the-great-recession.pdf) - Charlie's humorous take on the financial crisis
+- [2014 - Vice Chairman's Thoughts Past and Future](resources/talks/2014-vice-chairmans-thoughts-past-and-future.pdf) - Reflections on business and investing
 - [2017 - University of Michigan Ross](resources/talks/2017-a-conversation-with-charlie-munger-at-university-of-michigan-ross.pdf) - Conversation with Students
 
 **Video Versions:**
