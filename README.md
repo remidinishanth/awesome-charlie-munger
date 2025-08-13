@@ -24,6 +24,7 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 - [Websites](#websites)
 - [Books](#books)
 - [Speeches & Transcripts](#speeches--transcripts)
+  - [Talks](#talks)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Social Media](#social-media)
@@ -34,6 +35,7 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
   - [History & Philosophy](#history--philosophy)
   - [Literature & Fiction](#literature--fiction)
 - [Miscellaneous](#miscellaneous)
+- [Credits](#credits)
 - [Disclaimer](#disclaimer)
 - [Contribution](#contribution)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -85,25 +87,6 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 - [How to Guarantee a Life of Misery](https://jamesclear.com/great-speeches/how-to-guarantee-a-life-of-misery-by-charlie-munger) - Harvard-Westlake School speech (1986)
 - [USC Law School Commencement Address](https://worldlypartners.com/charlie-munger-archive/) - May 13, 2007
 
-## Videos
-
-> List of talks, lectures, and interviews where you can watch Charlie Munger
-
-### YouTube Channels
-- [YAPSS YouTube Channel](https://www.youtube.com/c/YAPSS) - 200+ videos of Charlie discussing various topics
-- [The Financial Review](https://www.youtube.com/channel/UCeeFWotVllcSp_vbDzTpFDg) - Similar content to YAPSS with Charlie Munger clips
-- [CMQ Investing](https://www.youtube.com/channel/UCQoQom7_1lZjOgU8D6trdBA) - Investment-focused content featuring Charlie Munger
-
-### Daily Journal Annual Meetings
-- [2022 Daily Journal Annual Meeting](https://www.youtube.com/watch?v=8RxLj9OVqLo) - Charlie Munger speaks at the Daily Journal annual meeting
-- [2021 Daily Journal Annual Meeting](https://www.youtube.com/watch?v=Pp4CvjNw-9Y) - Charlie Munger, Vice Chairman of Berkshire Hathaway
-- [2019 Daily Journal Annual Meeting](https://www.youtube.com/watch?v=Pqftm3o5RdQ) - Charlie Munger on Mistakes To Avoid In Life
-- [2015 Daily Journal Annual Meeting](https://www.youtube.com/watch?v=GcWYv6vy80Y) - Charlie Munger speaking at DJCO Meeting
-
-### Berkshire Hathaway Annual Meetings
-- [Berkshire Hathaway Annual Meetings Archive](https://buffett.cnbc.com/warren-buffett-archive/) - Complete archive of meetings with Warren and Charlie
-- [2023 Berkshire Hathaway Annual Meeting](https://www.youtube.com/results?search_query=berkshire+hathaway+2023+annual+meeting) - One of Charlie's final appearances
-
 ### Talks
 
 > PDF transcripts and recordings of Charlie Munger's speeches and lectures are available in [`resources/talks/`](resources/talks/)
@@ -126,6 +109,26 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 - [Charlie Munger - The Psychology of Human Misjudgment](https://www.youtube.com/watch?v=AKxE4RlCgjY) - Famous speech on cognitive biases
 - [Charlie Munger's Secret 4-Step Investing Checklist](https://www.youtube.com/watch?v=e5OAxlI4J14) - Investment methodology
 - [Mental Models of Warren Buffett & Charlie Munger](https://www.youtube.com/watch?v=bWaHNa89qME) - Mental models discussion
+
+## Videos
+
+> List of talks, lectures, and interviews where you can watch Charlie Munger
+
+### YouTube Channels
+- [YAPSS YouTube Channel](https://www.youtube.com/c/YAPSS) - 200+ videos of Charlie discussing various topics
+- [The Financial Review](https://www.youtube.com/channel/UCeeFWotVllcSp_vbDzTpFDg) - Similar content to YAPSS with Charlie Munger clips
+- [CMQ Investing](https://www.youtube.com/channel/UCQoQom7_1lZjOgU8D6trdBA) - Investment-focused content featuring Charlie Munger
+
+### Daily Journal Annual Meetings
+- [2022 Daily Journal Annual Meeting](https://www.youtube.com/watch?v=8RxLj9OVqLo) - Charlie Munger speaks at the Daily Journal annual meeting
+- [2021 Daily Journal Annual Meeting](https://www.youtube.com/watch?v=Pp4CvjNw-9Y) - Charlie Munger, Vice Chairman of Berkshire Hathaway
+- [2019 Daily Journal Annual Meeting](https://www.youtube.com/watch?v=Pqftm3o5RdQ) - Charlie Munger on Mistakes To Avoid In Life
+- [2015 Daily Journal Annual Meeting](https://www.youtube.com/watch?v=GcWYv6vy80Y) - Charlie Munger speaking at DJCO Meeting
+
+### Berkshire Hathaway Annual Meetings
+- [Berkshire Hathaway Annual Meetings Archive](https://buffett.cnbc.com/warren-buffett-archive/) - Complete archive of meetings with Warren and Charlie
+- [2023 Berkshire Hathaway Annual Meeting](https://www.youtube.com/results?search_query=berkshire+hathaway+2023+annual+meeting) - One of Charlie's final appearances
+
 
 ## Podcasts
 
