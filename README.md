@@ -15,7 +15,7 @@
 <img width="1600" height="933" alt="image" src="https://github.com/user-attachments/assets/0a7dd5f9-3df0-429f-b8a0-78d03a094539" />
 
 
-Charles Thomas Munger (1924-2023) was an American investor, businessman, and philanthropist. He served as vice chairman of Berkshire Hathaway, the conglomerate controlled by Warren Buffett. Munger was known for his wit, wisdom, and multidisciplinary approach to thinking. He advocated for the use of mental models from various disciplines to make better decisions and was a voracious reader who believed that continuous learning was essential for success.
+Charles Thomas Munger (1924-2023) was an American investor, businessman, and philanthropist. He served as vice chairman of Berkshire Hathaway. Munger was known for his wit, wisdom, and multidisciplinary approach to thinking. He advocated for the use of mental models from various disciplines to make better decisions and was a voracious reader who believed that continuous learning was essential for success.
 
 *"In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time -- none, zero."* - Charlie Munger
 
