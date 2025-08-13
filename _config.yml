@@ -1,0 +1,59 @@
+# Site settings
+title: "Awesome Charlie Munger"
+description: "A comprehensive collection of Charlie Munger's wisdom, speeches, books, and resources"
+baseurl: ""
+url: "https://remidinishanth.github.io/awesome-charlie-munger"
+
+# Author
+author:
+  name: "remidinishanth"
+  email: "remidinishanth@gmail.com"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:name/
+  books:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "talks"
+    values:
+      layout: "talk"
+  - scope:
+      path: ""
+      type: "books"
+    values:
+      layout: "book"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - bodega.log.txt
