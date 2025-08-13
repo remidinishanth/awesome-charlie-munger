@@ -18,7 +18,6 @@ Thank you for your interest in contributing to the Awesome Charlie Munger list! 
 - Books written by or featuring Charlie Munger
 - High-quality interviews, speeches, and talks
 - Reputable articles and essays about Charlie Munger
-- Academic papers and research related to his work
 - Official websites and social media accounts
 - Documentaries and videos featuring Charlie Munger
 - Podcasts with substantial Charlie Munger content
