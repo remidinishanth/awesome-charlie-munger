@@ -1,6 +1,6 @@
 # Awesome Charlie Munger [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-"The best thing another human being can do is help another human being know more" - Charlie Munger
+"The best thing a human being can do is help another human being know more" - Charlie Munger
 
 > A curated list of awesome resources about Charlie Munger
 >
