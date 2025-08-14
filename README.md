@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Awesome Charlie Munger
+title: Charlie Munger
 ---
 
 # Awesome Charlie Munger [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
