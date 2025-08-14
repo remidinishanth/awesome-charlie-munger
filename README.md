@@ -121,6 +121,7 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 - [YAPSS YouTube Channel](https://www.youtube.com/c/YAPSS) - 200+ videos of Charlie discussing various topics
 - [The Financial Review](https://www.youtube.com/channel/UCeeFWotVllcSp_vbDzTpFDg) - Similar content to YAPSS with Charlie Munger clips
 - [CMQ Investing](https://www.youtube.com/channel/UCQoQom7_1lZjOgU8D6trdBA) - Investment-focused content featuring Charlie Munger
+- [Seeking Wisdom: Value Investing & Worldly Wisdom](https://www.youtube.com/@worldly-wisdom-yt) - Channel focused on value investing and worldly wisdom principles
 
 ### Daily Journal Annual Meetings
 - [2022 Daily Journal Annual Meeting](https://www.youtube.com/watch?v=8RxLj9OVqLo) - Charlie Munger speaks at the Daily Journal annual meeting
