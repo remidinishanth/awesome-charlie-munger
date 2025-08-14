@@ -4,9 +4,9 @@ title: Awesome Charlie Munger
 ---
 
 <script>
-  window.location.href = '/awesome-charlie-munger/README.html';
+  window.location.href = '{{ site.baseurl }}/README.html';
 </script>
 
 <div class="redirect-message">
-  <p>Redirecting to <a href="/awesome-charlie-munger/README.html">README</a>...</p>
+  <p>Redirecting to <a href="{{ site.baseurl }}/README.html">README</a>...</p>
 </div>
