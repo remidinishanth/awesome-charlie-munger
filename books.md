@@ -5,7 +5,9 @@ title: Books
 
 # Books
 
-> Complete collection of books written by or featuring Charlie Munger
+> Content sourced from README.md - Single source of truth
+
+{% include books_section.html %}
 
 ## Books by Charlie Munger
 

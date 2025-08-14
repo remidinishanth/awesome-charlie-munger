@@ -5,11 +5,9 @@ title: Speeches & Talks
 
 # Speeches & Talks
 
-> PDF transcripts and recordings of Charlie Munger's speeches and lectures
+> Content sourced from README.md - Single source of truth
 
-## Complete Collection
-
-This comprehensive collection spans **40 years** of Charlie Munger's public speaking, from his early Blue Chip Stamps letters to his final university conversations.
+{% include talks_section.html %}
 
 ### 📄 PDF Transcripts Available
 

@@ -24,6 +24,10 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 
 Resources are collected from various online sources. See the [Credits](credits.html) section for references.
 
+<div class="source-note">
+📝 <strong>Single Source of Truth:</strong> All content is maintained in <a href="https://github.com/remidinishanth/awesome-charlie-munger/blob/main/README.md">README.md</a> and automatically presented here for better readability and navigation.
+</div>
+
 ## Quick Navigation
 
 <div class="navigation-grid">

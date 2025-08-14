@@ -5,7 +5,9 @@ title: Videos
 
 # Videos
 
-> Watch Charlie Munger's talks, lectures, and interviews
+> Content sourced from README.md - Single source of truth
+
+{% include videos_section.html %}
 
 ## YouTube Channels
 

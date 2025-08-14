@@ -1,0 +1,57 @@
+{% assign videos_content = site.data.readme_sections.videos %}
+{% if videos_content %}
+  <div class="readme-content">
+    {{ videos_content | markdownify }}
+  </div>
+{% else %}
+  <!-- Fallback content -->
+  <p>Loading videos content from README...</p>
+{% endif %}
+
+<!-- Enhanced presentation for videos -->
+<div class="videos-enhancement">
+  <h2>🎥 Video Categories</h2>
+  
+  <div class="video-categories">
+    <div class="video-category">
+      <h3>📺 YouTube Channels</h3>
+      <p>Dedicated channels with extensive Charlie Munger content</p>
+      <ul>
+        <li>YAPSS - 200+ videos</li>
+        <li>CMQ Investing - Investment focused</li>
+        <li>Seeking Wisdom - Value investing principles</li>
+      </ul>
+    </div>
+    
+    <div class="video-category">
+      <h3>🏢 Annual Meetings</h3>
+      <p>Berkshire Hathaway and Daily Journal meetings</p>
+      <ul>
+        <li>Berkshire Hathaway (with Warren Buffett)</li>
+        <li>Daily Journal Corporation</li>
+        <li>Q&A sessions and shareholder meetings</li>
+      </ul>
+    </div>
+    
+    <div class="video-category">
+      <h3>🎓 University Lectures</h3>
+      <p>Academic presentations and student conversations</p>
+      <ul>
+        <li>Harvard University</li>
+        <li>USC Business School</li>
+        <li>Stanford Law School</li>
+        <li>University of Michigan Ross</li>
+      </ul>
+    </div>
+  </div>
+  
+  <div class="video-tips">
+    <h3>💡 Viewing Tips</h3>
+    <ul>
+      <li><strong>Take Notes:</strong> Charlie's insights are dense with wisdom</li>
+      <li><strong>Rewatch:</strong> Many concepts become clearer on second viewing</li>
+      <li><strong>Cross-Reference:</strong> Compare with PDF transcripts for accuracy</li>
+      <li><strong>Share:</strong> Discuss insights with fellow investors and learners</li>
+    </ul>
+  </div>
+</div>

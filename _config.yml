@@ -20,6 +20,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# Plugin settings
+plugins_dir: _plugins
+
 # Collections
 collections:
   talks:
