@@ -1,8 +1,3 @@
----
-layout: default
-title: Awesome Charlie Munger
----
-
 <script>
   window.location.href = '{{ site.baseurl }}/README.html';
 </script>
