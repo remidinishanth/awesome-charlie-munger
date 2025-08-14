@@ -20,13 +20,32 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# Collections
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:name/
+  books:
+    output: true
+    permalink: /:collection/:name/
+
 # Defaults
 defaults:
   - scope:
       path: ""
-      type: "pages"
+      type: "posts"
     values:
-      layout: "default"
+      layout: "post"
+  - scope:
+      path: ""
+      type: "talks"
+    values:
+      layout: "talk"
+  - scope:
+      path: ""
+      type: "books"
+    values:
+      layout: "book"
 
 # Exclude from processing
 exclude:
