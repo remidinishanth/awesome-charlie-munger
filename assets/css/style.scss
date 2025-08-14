@@ -376,3 +376,105 @@ a:hover {
 .community-tips li {
   margin: 8px 0;
 }
+
+/* README Redirect Styling */
+.readme-redirect {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 40px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+}
+
+.readme-redirect h2 {
+  margin-top: 0;
+  color: white;
+  font-size: 2em;
+}
+
+.redirect-options {
+  margin: 30px 0;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.btn-primary, .btn-secondary {
+  display: inline-block;
+  padding: 15px 30px;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 1.1em;
+  transition: all 0.3s ease;
+  min-width: 200px;
+}
+
+.btn-primary {
+  background: white;
+  color: #667eea;
+  border: 2px solid white;
+}
+
+.btn-primary:hover {
+  background: transparent;
+  color: white;
+  text-decoration: none;
+}
+
+.btn-secondary {
+  background: transparent;
+  color: white;
+  border: 2px solid white;
+}
+
+.btn-secondary:hover {
+  background: white;
+  color: #667eea;
+  text-decoration: none;
+}
+
+.readme-redirect h3 {
+  color: white;
+  margin: 30px 0 20px 0;
+  font-size: 1.3em;
+}
+
+.readme-redirect ul {
+  text-align: left;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.readme-redirect li {
+  margin: 10px 0;
+  font-size: 1.05em;
+}
+
+.readme-redirect p:last-child {
+  margin-top: 30px;
+  font-size: 1.1em;
+  font-style: italic;
+  opacity: 0.9;
+}
+
+/* Simple redirect message */
+.redirect-message {
+  text-align: center;
+  padding: 40px;
+  font-size: 1.2em;
+}
+
+.redirect-message a {
+  color: #3498db;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.redirect-message a:hover {
+  text-decoration: underline;
+}
