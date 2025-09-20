@@ -252,6 +252,9 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 - [Berkshire Hathaway Annual Reports](https://www.berkshirehathaway.com/reports.html) - Annual shareholder letters
 - [Daily Journal Annual Reports](https://www.dailyjournal.com/investor-relations) - Reports from Munger's other company
 
+## Blogs
+- https://fourweekmba.com/charlie-munger/
+
 ## Credits
 
 This collection of resources has been compiled from various online sources to preserve and share Charlie Munger's wisdom. Special thanks to:
