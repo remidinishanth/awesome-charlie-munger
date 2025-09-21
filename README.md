@@ -181,6 +181,11 @@ Ref: https://www.reddit.com/r/rarebooks/comments/1d9et09/charlie_mungers_bookshe
 
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/a682f3e0-fd10-4bbb-a693-1bf547377f09" />
 
+<img width="1280" height="1707" alt="image" src="https://github.com/user-attachments/assets/91077cdd-44ba-4e0b-8ebb-1258eb5f857b" />
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/b8746ba3-07e9-4e6b-b53a-5d1ba380a7a2" />
+
+
 
 > List of book recommendations by Charlie Munger, organized by category
 
