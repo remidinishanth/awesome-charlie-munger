@@ -67,6 +67,9 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 - [Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://www.amazon.com/Poor-Charlies-Almanack-Essential-Wisdom/dp/1578645018) - Alternative edition (2 editions)
 - [The Psychology of Human Misjudgment](https://www.amazon.com/Psychology-Human-Misjudgment-Charles-Munger/dp/B08ZYNQZPX) by Charlie Munger - (2 editions)
 - [On Success](https://www.amazon.com/Success-Charlie-Munger/dp/B08ZYNQZPX) by Charlie Munger - (2009, 3 editions)
+
+<img width="1600" height="1531" alt="image" src="https://github.com/user-attachments/assets/59ae7be4-963f-485d-b17b-d582af708371" />
+
 - [Worldly Wisdom](https://www.amazon.com/Worldly-Wisdom-Charlie-Munger/dp/B08ZYNQZPX) by Charlie Munger
 - [Charlie Munger's Wesco Letters 1983 – 2009](https://www.amazon.com/Charlie-Mungers-Wesco-Letters-1983/dp/B08ZYNQZPX) by Charlie Munger
 - [Charlie Munger Blue Chip Stamps Annual Letters 1977 – 1982](https://www.amazon.com/Charlie-Munger-Stamps-Annual-Letters/dp/B08ZYNQZPX) by Charlie Munger
