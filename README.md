@@ -169,6 +169,17 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 
 ## Book Recommendations
 
+Ref: https://www.reddit.com/r/rarebooks/comments/1d9et09/charlie_mungers_bookshelf_help_me_with/
+
+<img width="1400" height="1720" alt="image" src="https://github.com/user-attachments/assets/73fe9f06-2073-4d66-961b-88088a766ce0" />
+
+<img width="1280" height="1707" alt="image" src="https://github.com/user-attachments/assets/35016013-5390-4d56-909d-f344bd0ffbf0" />
+
+<img width="922" height="2048" alt="image" src="https://github.com/user-attachments/assets/f6efbde1-57fe-48be-b1ae-41bae98624cb" />
+
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/ed63e1b9-5550-48a6-b62c-9c6685621a0a" />
+
+
 > List of book recommendations by Charlie Munger, organized by category
 
 ### Biography & Business
