@@ -1,12 +1,8 @@
----
-layout: default
-title: Charlie Munger
----
-
-
 # Awesome Charlie Munger [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 "The best thing a human being can do is help another human being know more" - Charlie Munger
+
+Read about https://remidinishanth.github.io/awesome-charlie-munger/README.html
 
 > A curated list of awesome resources about Charlie Munger
 >
