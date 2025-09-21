@@ -54,8 +54,6 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 - [Farnam Street](https://fs.blog/) - Shane Parrish's blog about decision-making with numerous Charlie Munger articles
 - [Worldly Partners - Charlie Munger Archive](https://worldlypartners.com/charlie-munger-archive/) - Comprehensive archive of Charlie Munger's speeches, writings, and appearances
 - [Charlie Munger - Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger) - Wikipedia article on Charlie Munger
-- [Berkshire Hathaway](https://www.berkshirehathaway.com/) - Official website of Berkshire Hathaway
-- [Daily Journal Corporation](https://www.dailyjournal.com/) - Charlie Munger served as Chairman
 - [Charlie Munger - Goodreads](https://www.goodreads.com/author/show/1069006.Charles_T_Munger) - Charlie Munger's Goodreads page
 
 ## Books
