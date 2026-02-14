@@ -19,7 +19,8 @@ Read about https://remidinishanth.github.io/awesome-charlie-munger/README.html
 >
 > Resources are collected from various online sources. See the [Credits](#credits) section for references.
 
-<img width="1600" height="933" alt="image" src="https://github.com/user-attachments/assets/0a7dd5f9-3df0-429f-b8a0-78d03a094539" />
+<img width="3000" height="2999" alt="image" src="https://github.com/user-attachments/assets/cf8d4eca-94e5-4701-8623-1fa27958146f" />
+
 
 
 Charles Thomas Munger (1924-2023) was an American investor, businessman, and philanthropist. He served as vice chairman of Berkshire Hathaway. Munger was known for his wit, wisdom, and multidisciplinary approach to thinking. He advocated for the use of mental models from various disciplines to make better decisions and was a voracious reader who believed that continuous learning was essential for success.
