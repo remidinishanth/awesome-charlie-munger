@@ -45,6 +45,7 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
   - [History & Philosophy](#history--philosophy)
   - [Literature & Fiction](#literature--fiction)
 - [Miscellaneous](#miscellaneous)
+- [Blogs](#blogs)
 - [Credits](#credits)
 - [Disclaimer](#disclaimer)
 - [Contribution](#contribution)
@@ -69,14 +70,14 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 - [Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger](https://www.stripe.press/poor-charlies-almanack) by Charles T. Munger, Peter E. Kaufman (Editor) - **Stripe Press Edition** (2023) - The most recent and beautifully designed edition
 - [Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018) by Charles T. Munger, Peter E. Kaufman (Editor) - (2005, 21 editions)
 - [Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://www.amazon.com/Poor-Charlies-Almanack-Essential-Wisdom/dp/1578645018) - Alternative edition (2 editions)
-- [The Psychology of Human Misjudgment](https://www.amazon.com/Psychology-Human-Misjudgment-Charles-Munger/dp/B08ZYNQZPX) by Charlie Munger - (2 editions)
-- [On Success](https://www.amazon.com/Success-Charlie-Munger/dp/B08ZYNQZPX) by Charlie Munger - (2009, 3 editions)
+- [The Psychology of Human Misjudgement](https://www.goodreads.com/book/show/24761454) by Charlie Munger - (2 editions)
+- [On Success](https://www.goodreads.com/book/show/12671201) by Charlie Munger - (2009, 3 editions)
 
 <img width="1600" height="1531" alt="image" src="https://github.com/user-attachments/assets/59ae7be4-963f-485d-b17b-d582af708371" />
 
-- [Worldly Wisdom](https://www.amazon.com/Worldly-Wisdom-Charlie-Munger/dp/B08ZYNQZPX) by Charlie Munger
-- [Charlie Munger's Wesco Letters 1983 – 2009](https://www.amazon.com/Charlie-Mungers-Wesco-Letters-1983/dp/B08ZYNQZPX) by Charlie Munger
-- [Charlie Munger Blue Chip Stamps Annual Letters 1977 – 1982](https://www.amazon.com/Charlie-Munger-Stamps-Annual-Letters/dp/B08ZYNQZPX) by Charlie Munger
+- [Worldly Wisdom](https://www.goodreads.com/book/show/38101797) by Charlie Munger
+- [Charlie Munger's Wesco Letters 1983 – 2009](https://www.goodreads.com/book/show/37811774) by Charlie Munger - Annual letters as Chairman of Wesco Financial (218 pages)
+- [Charlie Munger Blue Chip Stamps Annual Letters 1977 – 1982](https://www.goodreads.com/book/show/37794345) by Charlie Munger - Annual letters as Chairman of Blue Chip Stamps
 
 ### Books About Charlie Munger
 
@@ -115,6 +116,7 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 - [2005 - Psychology of Human Misjudgment (Revised)](resources/talks/2005_revised_The+Psychology+of+Human+Misjudment.pdf) - Updated version of the famous speech
 - [2007 - USC Law School Commencement](resources/talks/2007-commencement-speech-by-charlie-munger-at-usc-gould-school-of-law.pdf) - Commencement Address
 - [2007 - USC Law School Commencement (Transcript)](resources/talks/2007-USC-Law-School-Commencement-Address-by-Charlie-Munger-Transcript.pdf) - Full transcript of the commencement address
+- [2008 - Caltech DuBridge Distinguished Lecture](resources/talks/2008_DuBridge_Lecture.pdf) - One of Munger's most wide-ranging talks on multidisciplinary thinking
 - [2011 - A Parody About the Great Recession](resources/talks/2011-a-parody-about-the-great-recession.pdf) - Charlie's humorous take on the financial crisis
 - [2014 - Vice Chairman's Thoughts Past and Future](resources/talks/2014-vice-chairmans-thoughts-past-and-future.pdf) - Reflections on business and investing
 - [2017 - University of Michigan Ross](resources/talks/2017-a-conversation-with-charlie-munger-at-university-of-michigan-ross.pdf) - Conversation with Students
@@ -149,10 +151,7 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 
 > List of podcasts featuring Charlie Munger or discussing his ideas
 
-- [CMQ Investing Podcast](https://podcasts.apple.com/podcast/cmq-investing/id1234567890) - Hosted by the creator of @CharlieMungerQuotes
-  - [The 4 Pillars of Charlie Munger's Investment Strategy](https://example.com)
-  - [Charlie Munger & the Mathematical Advantages of Doing Nothing](https://example.com)
-  - [How to Buy the Dip Like Charlie Munger](https://example.com)
+- [Acquired: Charlie Munger](https://www.acquired.fm/episodes/charlie-munger) - The only dedicated longform podcast interview Munger ever did, recorded at his Los Angeles home in October 2023 at age 99
 - [The Acquirer's Podcast](https://acquirersmultiple.com/podcast/) - Features episodes on Charlie Munger's investment philosophy
 
 ## Social Media
@@ -160,20 +159,20 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 > List of official and unofficial social media accounts
 
 ### Instagram
-- 📸 [Charlie Munger Quotes (@charliemungerquotes)](https://www.instagram.com/charliemungerquotes/) - Instagram account with 80,000+ followers and 500+ quotes
+- [Charlie Munger Quotes (@charliemungerquotes)](https://www.instagram.com/charliemungerquotes/) - Instagram account with 80,000+ followers and 500+ quotes
 
 ### Twitter
-- 🐦 [Poor Charlie Bot (@PoorCharlieBot)](https://x.com/PoorCharlieBot) - Automated bot sharing Charlie Munger quotes and wisdom
+- [Poor Charlie Bot (@PoorCharlieBot)](https://x.com/PoorCharlieBot) - Automated bot sharing Charlie Munger quotes and wisdom
 
 ### Facebook
-- 👥 [Charlie Munger Almanack Facebook Group](https://www.facebook.com/groups/charliemungeralmanack) - Active Facebook community for Charlie Munger fans
+- [Charlie Munger Almanack Facebook Group](https://www.facebook.com/groups/charliemungeralmanack) - Active Facebook community for Charlie Munger fans
 
 ### Reddit
-- 🔴 [r/CharlieMunger](https://www.reddit.com/r/CharlieMunger/) - Reddit community for Charlie Munger discussions and insights
+- [r/CharlieMunger](https://www.reddit.com/r/CharlieMunger/) - Reddit community for Charlie Munger discussions and insights
 
 ## Book Recommendations
 
-Ref: https://www.reddit.com/r/rarebooks/comments/1d9et09/charlie_mungers_bookshelf_help_me_with/
+Ref: [Charlie Munger's Bookshelf](https://www.reddit.com/r/rarebooks/comments/1d9et09/charlie_mungers_bookshelf_help_me_with/)
 
 <img width="1400" height="1720" alt="image" src="https://github.com/user-attachments/assets/73fe9f06-2073-4d66-961b-88088a766ce0" />
 
@@ -271,12 +270,11 @@ Ref: https://www.reddit.com/r/rarebooks/comments/1d9et09/charlie_mungers_bookshe
 - [r/BerkshireHathaway](https://www.reddit.com/r/BerkshireHathaway/) - Reddit community for Berkshire Hathaway discussions
 
 ### Research & Academic
-- [Charlie Munger's Investment Philosophy](https://papers.ssrn.com/) - Academic papers on Munger's approach
 - [Berkshire Hathaway Annual Reports](https://www.berkshirehathaway.com/reports.html) - Annual shareholder letters
 - [Daily Journal Annual Reports](https://www.dailyjournal.com/investor-relations) - Reports from Munger's other company
 
 ## Blogs
-- https://fourweekmba.com/charlie-munger/
+- [Charlie Munger - FourWeekMBA](https://fourweekmba.com/charlie-munger/) - Overview of Munger's business philosophy and mental models
 
 ## Credits
 
@@ -289,11 +287,11 @@ This collection of resources has been compiled from various online sources to pr
 
 ## Disclaimer
 
-Some links in the [books](#books) and [book recommendations](#book-recommendations) sections may be affiliate links. This helps support the maintenance of this awesome list.
+Some links in the [books](#books) and [book recommendations](#book-recommendations) sections link to Amazon product pages for convenience.
 
 ## Contribution
 
-Contributions welcome! You can create a new [pull request](https://github.com/remidinishanth/awesome-charlie-munger/pulls) or submit an [issue](https://github.com/remidinishanth/awesome-charlie-munger/issues). Please read the [Contributing Guidelines](CONTRIBUTING.md) first.
+Contributions welcome! You can create a new [pull request](https://github.com/remidinishanth/awesome-charlie-munger/pulls) or submit an [issue](https://github.com/remidinishanth/awesome-charlie-munger/issues).
 
 ## Other Awesome Lists
 
