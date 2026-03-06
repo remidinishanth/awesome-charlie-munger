@@ -7,8 +7,6 @@ title: Charlie Munger
 
 "The best thing a human being can do is help another human being know more" - Charlie Munger
 
-Read about https://remidinishanth.github.io/awesome-charlie-munger/README.html
-
 > A curated list of awesome resources about Charlie Munger
 >
 > **Goals:**
@@ -104,22 +102,85 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 > PDF transcripts and recordings of Charlie Munger's speeches and lectures are available in [`resources/talks/`](resources/talks/)
 
 **Key Speeches & Lectures:**
-- [1977-1982 - Blue Chip Stamps Letters](resources/talks/Blue_chip_stamps_letters_1977_to_1982_Munger.pdf) - Charlie Munger's annual letters as Chairman of Blue Chip Stamps
-- [1986 - Harvard-Westlake Commencement Speech](resources/talks/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf) - "How to Guarantee a Life of Misery"
-- [1994 - USC Business School Lecture](resources/talks/1994-lecture-by-charlie-munger-at-usc-a-lesson-on-elementary-worldly-wisdom-as-it-relates-to-investment.pdf) - "A Lesson on Elementary, Worldly Wisdom"
-- [1995 - Harvard Speech](resources/talks/1995-speech-by-charlie-munger-at-harvard-the-psychology-of-human-misjudgment.pdf) - "The Psychology of Human Misjudgment"
-- [1995-1998 - Worldly Wisdom](resources/talks/1995_to_1998_Worldly-Wisdom-by-Munger.pdf) - Collection of worldly wisdom insights
-- [1996 - Stanford Law School](resources/talks/1996-lecture-by-charlie-munger-at-stanford-law-school-worldly-wisdom-revisited-business-what-lawyers-should-know.pdf) - "Worldly Wisdom Revisited"
-- [1996 - Practical Thought About Practical Thought](resources/talks/1996_Practical_thought_about_practical_thought_Mungers-analysis-to-build-a-Trillion-Dollar-Business-from-Scratch.pdf) - Analysis to build a trillion-dollar business from scratch
-- [2000 - Philanthropy Round Table](resources/talks/2000-talk-of-charlie-munger-to-breakfast-meeting-of-the-philanthropy-round-table.pdf) - Talk on Philanthropy
-- [2003 - UCSB Speech](resources/talks/2003-speech-by-charlie-munger-at-ucsb-academic-economics-strengths-and-faults-after-considering-interdisciplinary.pdf) - "Academic Economics: Strengths and Faults"
-- [2005 - Psychology of Human Misjudgment (Revised)](resources/talks/2005_revised_The+Psychology+of+Human+Misjudment.pdf) - Updated version of the famous speech
-- [2007 - USC Law School Commencement](resources/talks/2007-commencement-speech-by-charlie-munger-at-usc-gould-school-of-law.pdf) - Commencement Address
-- [2007 - USC Law School Commencement (Transcript)](resources/talks/2007-USC-Law-School-Commencement-Address-by-Charlie-Munger-Transcript.pdf) - Full transcript of the commencement address
-- [2008 - Caltech DuBridge Distinguished Lecture](resources/talks/2008_DuBridge_Lecture.pdf) - One of Munger's most wide-ranging talks on multidisciplinary thinking
-- [2011 - A Parody About the Great Recession](resources/talks/2011-a-parody-about-the-great-recession.pdf) - Charlie's humorous take on the financial crisis
-- [2014 - Vice Chairman's Thoughts Past and Future](resources/talks/2014-vice-chairmans-thoughts-past-and-future.pdf) - Reflections on business and investing
-- [2017 - University of Michigan Ross](resources/talks/2017-a-conversation-with-charlie-munger-at-university-of-michigan-ross.pdf) - Conversation with Students
+
+<div class="talks-grid">
+  <div class="talk-item">
+    <h3>1977–1982</h3>
+    <p>Blue Chip Stamps Letters — Charlie Munger's annual letters as Chairman of Blue Chip Stamps</p>
+    <a href="resources/talks/Blue_chip_stamps_letters_1977_to_1982_Munger.pdf" class="pdf-link">View PDF</a>
+  </div>
+  <div class="talk-item">
+    <h3>1986 — Harvard-Westlake</h3>
+    <p>"How to Guarantee a Life of Misery" — Commencement speech at Harvard-Westlake School</p>
+    <a href="resources/talks/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf" class="pdf-link">View PDF</a>
+  </div>
+  <div class="talk-item">
+    <h3>1994 — USC Business School</h3>
+    <p>"A Lesson on Elementary, Worldly Wisdom" — One of Munger's most referenced lectures</p>
+    <a href="resources/talks/1994-lecture-by-charlie-munger-at-usc-a-lesson-on-elementary-worldly-wisdom-as-it-relates-to-investment.pdf" class="pdf-link">View PDF</a>
+  </div>
+  <div class="talk-item">
+    <h3>1995 — Harvard</h3>
+    <p>"The Psychology of Human Misjudgment" — The famous speech on 25 cognitive biases</p>
+    <a href="resources/talks/1995-speech-by-charlie-munger-at-harvard-the-psychology-of-human-misjudgment.pdf" class="pdf-link">View PDF</a>
+  </div>
+  <div class="talk-item">
+    <h3>1995–1998 — Worldly Wisdom</h3>
+    <p>Collection of worldly wisdom insights spanning four years</p>
+    <a href="resources/talks/1995_to_1998_Worldly-Wisdom-by-Munger.pdf" class="pdf-link">View PDF</a>
+  </div>
+  <div class="talk-item">
+    <h3>1996 — Stanford Law School</h3>
+    <p>"Worldly Wisdom Revisited" — Business knowledge lawyers should know</p>
+    <a href="resources/talks/1996-lecture-by-charlie-munger-at-stanford-law-school-worldly-wisdom-revisited-business-what-lawyers-should-know.pdf" class="pdf-link">View PDF</a>
+  </div>
+  <div class="talk-item">
+    <h3>1996 — Practical Thought</h3>
+    <p>Analysis to build a trillion-dollar business from scratch</p>
+    <a href="resources/talks/1996_Practical_thought_about_practical_thought_Mungers-analysis-to-build-a-Trillion-Dollar-Business-from-Scratch.pdf" class="pdf-link">View PDF</a>
+  </div>
+  <div class="talk-item">
+    <h3>2000 — Philanthropy Round Table</h3>
+    <p>Talk on philanthropy at the Philanthropy Round Table breakfast meeting</p>
+    <a href="resources/talks/2000-talk-of-charlie-munger-to-breakfast-meeting-of-the-philanthropy-round-table.pdf" class="pdf-link">View PDF</a>
+  </div>
+  <div class="talk-item">
+    <h3>2003 — UCSB</h3>
+    <p>"Academic Economics: Strengths and Faults" — Interdisciplinary critique</p>
+    <a href="resources/talks/2003-speech-by-charlie-munger-at-ucsb-academic-economics-strengths-and-faults-after-considering-interdisciplinary.pdf" class="pdf-link">View PDF</a>
+  </div>
+  <div class="talk-item">
+    <h3>2005 — Psychology (Revised)</h3>
+    <p>Updated and expanded version of the famous Psychology of Human Misjudgment speech</p>
+    <a href="resources/talks/2005_revised_The+Psychology+of+Human+Misjudment.pdf" class="pdf-link">View PDF</a>
+  </div>
+  <div class="talk-item">
+    <h3>2007 — USC Law Commencement</h3>
+    <p>Commencement address at USC Gould School of Law</p>
+    <a href="resources/talks/2007-commencement-speech-by-charlie-munger-at-usc-gould-school-of-law.pdf" class="pdf-link">View PDF</a>
+    <a href="resources/talks/2007-USC-Law-School-Commencement-Address-by-Charlie-Munger-Transcript.pdf" class="pdf-link" style="margin-left: 8px;">Transcript</a>
+  </div>
+  <div class="talk-item">
+    <h3>2008 — Caltech DuBridge Lecture</h3>
+    <p>One of Munger's most wide-ranging talks on multidisciplinary thinking</p>
+    <a href="resources/talks/2008_DuBridge_Lecture.pdf" class="pdf-link">View PDF</a>
+  </div>
+  <div class="talk-item">
+    <h3>2011 — Great Recession Parody</h3>
+    <p>Charlie's humorous take on the 2008 financial crisis</p>
+    <a href="resources/talks/2011-a-parody-about-the-great-recession.pdf" class="pdf-link">View PDF</a>
+  </div>
+  <div class="talk-item">
+    <h3>2014 — Vice Chairman's Thoughts</h3>
+    <p>Reflections on business, investing, and lessons from a lifetime of experience</p>
+    <a href="resources/talks/2014-vice-chairmans-thoughts-past-and-future.pdf" class="pdf-link">View PDF</a>
+  </div>
+  <div class="talk-item">
+    <h3>2017 — University of Michigan Ross</h3>
+    <p>Conversation with students at the Ross School of Business</p>
+    <a href="resources/talks/2017-a-conversation-with-charlie-munger-at-university-of-michigan-ross.pdf" class="pdf-link">View PDF</a>
+  </div>
+</div>
 
 **Video Versions:**
 - [Charlie Munger - The Psychology of Human Misjudgment](https://www.youtube.com/watch?v=AKxE4RlCgjY) - Famous speech on cognitive biases
@@ -144,7 +205,7 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 
 ### Berkshire Hathaway Annual Meetings
 - [Berkshire Hathaway Annual Meetings Archive](https://buffett.cnbc.com/warren-buffett-archive/) - Complete archive of meetings with Warren and Charlie
-- [2023 Berkshire Hathaway Annual Meeting](https://www.youtube.com/results?search_query=berkshire+hathaway+2023+annual+meeting) - One of Charlie's final appearances
+- [2023 Berkshire Hathaway Annual Meeting](https://buffett.cnbc.com/annual-meetings/) - One of Charlie's final appearances
 
 
 ## Podcasts
@@ -174,19 +235,24 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 
 Ref: [Charlie Munger's Bookshelf](https://www.reddit.com/r/rarebooks/comments/1d9et09/charlie_mungers_bookshelf_help_me_with/)
 
-<img width="1400" height="1720" alt="image" src="https://github.com/user-attachments/assets/73fe9f06-2073-4d66-961b-88088a766ce0" />
+<details>
+<summary>Click to view Charlie Munger's bookshelf photos (7 images)</summary>
 
-<img width="1280" height="1707" alt="image" src="https://github.com/user-attachments/assets/35016013-5390-4d56-909d-f344bd0ffbf0" />
+<img width="1400" height="1720" alt="Charlie Munger's bookshelf" src="https://github.com/user-attachments/assets/73fe9f06-2073-4d66-961b-88088a766ce0" />
 
-<img width="922" height="2048" alt="image" src="https://github.com/user-attachments/assets/f6efbde1-57fe-48be-b1ae-41bae98624cb" />
+<img width="1280" height="1707" alt="Charlie Munger's bookshelf" src="https://github.com/user-attachments/assets/35016013-5390-4d56-909d-f344bd0ffbf0" />
 
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/ed63e1b9-5550-48a6-b62c-9c6685621a0a" />
+<img width="922" height="2048" alt="Charlie Munger's bookshelf" src="https://github.com/user-attachments/assets/f6efbde1-57fe-48be-b1ae-41bae98624cb" />
 
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/a682f3e0-fd10-4bbb-a693-1bf547377f09" />
+<img width="640" height="480" alt="Charlie Munger's bookshelf" src="https://github.com/user-attachments/assets/ed63e1b9-5550-48a6-b62c-9c6685621a0a" />
 
-<img width="1280" height="1707" alt="image" src="https://github.com/user-attachments/assets/91077cdd-44ba-4e0b-8ebb-1258eb5f857b" />
+<img width="2048" height="1536" alt="Charlie Munger's bookshelf" src="https://github.com/user-attachments/assets/a682f3e0-fd10-4bbb-a693-1bf547377f09" />
 
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/b8746ba3-07e9-4e6b-b53a-5d1ba380a7a2" />
+<img width="1280" height="1707" alt="Charlie Munger's bookshelf" src="https://github.com/user-attachments/assets/91077cdd-44ba-4e0b-8ebb-1258eb5f857b" />
+
+<img width="2048" height="1536" alt="Charlie Munger's bookshelf" src="https://github.com/user-attachments/assets/b8746ba3-07e9-4e6b-b53a-5d1ba380a7a2" />
+
+</details>
 
 
 

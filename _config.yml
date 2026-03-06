@@ -57,3 +57,5 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - bodega.log.txt
+  - TESTING.md
+  - .ruby-version
