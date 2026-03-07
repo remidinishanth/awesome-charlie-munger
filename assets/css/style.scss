@@ -22,23 +22,33 @@
   margin: 30px 0;
 }
 
-.nav-item {
+a.nav-item, .nav-item {
+  display: block;
   background: #f8f9fa;
   border: 1px solid #e9ecef;
   border-radius: 8px;
   padding: 20px;
   text-align: center;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
   transition: transform 0.2s, box-shadow 0.2s;
 }
 
-.nav-item:hover {
+a.nav-item:hover, .nav-item:hover {
   transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-decoration: none;
+  color: inherit;
 }
 
 .nav-item h3 {
   margin-top: 0;
   color: #2c3e50;
+}
+
+.nav-item p {
+  color: #555;
 }
 
 .nav-item h3 a {

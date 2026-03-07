@@ -15,22 +15,22 @@ title: Awesome Charlie Munger
 </div>
 
 <div class="navigation-grid">
-  <div class="nav-item">
-    <h3><a href="{{ site.baseurl }}/README.html#books">Books</a></h3>
+  <a href="{{ site.baseurl }}/README.html#books" class="nav-item">
+    <h3>Books</h3>
     <p>Poor Charlie's Almanack, biographies, and compilations of Munger's writings</p>
-  </div>
-  <div class="nav-item">
-    <h3><a href="{{ site.baseurl }}/README.html#speeches--transcripts">Speeches & Transcripts</a></h3>
+  </a>
+  <a href="{{ site.baseurl }}/README.html#speeches--transcripts" class="nav-item">
+    <h3>Speeches & Transcripts</h3>
     <p>17 PDF transcripts from 1977–2017, including the famous Psychology of Human Misjudgment</p>
-  </div>
-  <div class="nav-item">
-    <h3><a href="{{ site.baseurl }}/README.html#videos">Videos</a></h3>
+  </a>
+  <a href="{{ site.baseurl }}/README.html#videos" class="nav-item">
+    <h3>Videos</h3>
     <p>YouTube channels, Daily Journal meetings, and Berkshire Hathaway annual meetings</p>
-  </div>
-  <div class="nav-item">
-    <h3><a href="{{ site.baseurl }}/README.html#book-recommendations">Book Recommendations</a></h3>
+  </a>
+  <a href="{{ site.baseurl }}/README.html#book-recommendations" class="nav-item">
+    <h3>Book Recommendations</h3>
     <p>40+ books Munger recommended across science, psychology, history, and business</p>
-  </div>
+  </a>
 </div>
 
 <div class="featured-book">
