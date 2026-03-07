@@ -7,7 +7,7 @@ title: "How to Guarantee a Life of Misery — Charlie Munger (1986)"
 
 **Charlie Munger — Harvard-Westlake School Commencement, June 13, 1986**
 
-> [PDF version](../talks/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf) · [Full text at jamesclear.com](https://jamesclear.com/great-speeches/how-to-guarantee-a-life-of-misery-by-charlie-munger)
+> [PDF version](../talks/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf)
 
 ---
 
@@ -96,4 +96,4 @@ Einstein attributed his success to: *"Curiosity, concentration, perseverance, an
 
 ---
 
-*This is a study guide and summary. For the full speech, see the [PDF](../talks/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf) or read the [complete text at jamesclear.com](https://jamesclear.com/great-speeches/how-to-guarantee-a-life-of-misery-by-charlie-munger).*
+*This is a study guide and summary. For the full speech, see the [PDF](../talks/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf).*
