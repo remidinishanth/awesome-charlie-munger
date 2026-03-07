@@ -96,4 +96,4 @@ Einstein attributed his success to: *"Curiosity, concentration, perseverance, an
 
 ---
 
-*This is a study guide and summary. For the full speech, see the [PDF](../talks/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf).*
+*For the full speech, see the [PDF](../talks/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf).*
