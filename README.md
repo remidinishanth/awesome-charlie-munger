@@ -103,84 +103,23 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 
 **Key Speeches & Lectures:**
 
-<div class="talks-grid">
-  <div class="talk-item">
-    <h3>1977–1982</h3>
-    <p>Blue Chip Stamps Letters — Charlie Munger's annual letters as Chairman of Blue Chip Stamps</p>
-    <a href="resources/talks/Blue_chip_stamps_letters_1977_to_1982_Munger.pdf" class="pdf-link">View PDF</a>
-  </div>
-  <div class="talk-item">
-    <h3>1986 — Harvard-Westlake</h3>
-    <p>"How to Guarantee a Life of Misery" — Commencement speech at Harvard-Westlake School</p>
-    <a href="resources/talks/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf" class="pdf-link">View PDF</a>
-  </div>
-  <div class="talk-item">
-    <h3>1994 — USC Business School</h3>
-    <p>"A Lesson on Elementary, Worldly Wisdom" — One of Munger's most referenced lectures</p>
-    <a href="resources/talks/1994-lecture-by-charlie-munger-at-usc-a-lesson-on-elementary-worldly-wisdom-as-it-relates-to-investment.pdf" class="pdf-link">View PDF</a>
-  </div>
-  <div class="talk-item">
-    <h3>1995 — Harvard</h3>
-    <p>"The Psychology of Human Misjudgment" — The famous speech on 25 cognitive biases</p>
-    <a href="resources/talks/1995-speech-by-charlie-munger-at-harvard-the-psychology-of-human-misjudgment.pdf" class="pdf-link">View PDF</a>
-  </div>
-  <div class="talk-item">
-    <h3>1995–1998 — Worldly Wisdom</h3>
-    <p>Collection of worldly wisdom insights spanning four years</p>
-    <a href="resources/talks/1995_to_1998_Worldly-Wisdom-by-Munger.pdf" class="pdf-link">View PDF</a>
-  </div>
-  <div class="talk-item">
-    <h3>1996 — Stanford Law School</h3>
-    <p>"Worldly Wisdom Revisited" — Business knowledge lawyers should know</p>
-    <a href="resources/talks/1996-lecture-by-charlie-munger-at-stanford-law-school-worldly-wisdom-revisited-business-what-lawyers-should-know.pdf" class="pdf-link">View PDF</a>
-  </div>
-  <div class="talk-item">
-    <h3>1996 — Practical Thought</h3>
-    <p>Analysis to build a trillion-dollar business from scratch</p>
-    <a href="resources/talks/1996_Practical_thought_about_practical_thought_Mungers-analysis-to-build-a-Trillion-Dollar-Business-from-Scratch.pdf" class="pdf-link">View PDF</a>
-  </div>
-  <div class="talk-item">
-    <h3>2000 — Philanthropy Round Table</h3>
-    <p>Talk on philanthropy at the Philanthropy Round Table breakfast meeting</p>
-    <a href="resources/talks/2000-talk-of-charlie-munger-to-breakfast-meeting-of-the-philanthropy-round-table.pdf" class="pdf-link">View PDF</a>
-  </div>
-  <div class="talk-item">
-    <h3>2003 — UCSB</h3>
-    <p>"Academic Economics: Strengths and Faults" — Interdisciplinary critique</p>
-    <a href="resources/talks/2003-speech-by-charlie-munger-at-ucsb-academic-economics-strengths-and-faults-after-considering-interdisciplinary.pdf" class="pdf-link">View PDF</a>
-  </div>
-  <div class="talk-item">
-    <h3>2005 — Psychology (Revised)</h3>
-    <p>Updated and expanded version of the famous Psychology of Human Misjudgment speech</p>
-    <a href="resources/talks/2005_revised_The+Psychology+of+Human+Misjudment.pdf" class="pdf-link">View PDF</a>
-  </div>
-  <div class="talk-item">
-    <h3>2007 — USC Law Commencement</h3>
-    <p>Commencement address at USC Gould School of Law</p>
-    <a href="resources/talks/2007-commencement-speech-by-charlie-munger-at-usc-gould-school-of-law.pdf" class="pdf-link">View PDF</a>
-    <a href="resources/talks/2007-USC-Law-School-Commencement-Address-by-Charlie-Munger-Transcript.pdf" class="pdf-link" style="margin-left: 8px;">Transcript</a>
-  </div>
-  <div class="talk-item">
-    <h3>2008 — Caltech DuBridge Lecture</h3>
-    <p>One of Munger's most wide-ranging talks on multidisciplinary thinking</p>
-    <a href="resources/talks/2008_DuBridge_Lecture.pdf" class="pdf-link">View PDF</a>
-  </div>
-  <div class="talk-item">
-    <h3>2011 — Great Recession Parody</h3>
-    <p>Charlie's humorous take on the 2008 financial crisis</p>
-    <a href="resources/talks/2011-a-parody-about-the-great-recession.pdf" class="pdf-link">View PDF</a>
-  </div>
-  <div class="talk-item">
-    <h3>2014 — Vice Chairman's Thoughts</h3>
-    <p>Reflections on business, investing, and lessons from a lifetime of experience</p>
-    <a href="resources/talks/2014-vice-chairmans-thoughts-past-and-future.pdf" class="pdf-link">View PDF</a>
-  </div>
-  <div class="talk-item">
-    <h3>2017 — University of Michigan Ross</h3>
-    <p>Conversation with students at the Ross School of Business</p>
-    <a href="resources/talks/2017-a-conversation-with-charlie-munger-at-university-of-michigan-ross.pdf" class="pdf-link">View PDF</a>
-  </div>
-</div>
+| Year | Speech | Description | PDF |
+|------|--------|-------------|-----|
+| 1977–1982 | Blue Chip Stamps Letters | Annual letters as Chairman of Blue Chip Stamps | [PDF](resources/talks/Blue_chip_stamps_letters_1977_to_1982_Munger.pdf) |
+| 1986 | Harvard-Westlake Commencement | "How to Guarantee a Life of Misery" | [PDF](resources/talks/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf) |
+| 1994 | USC Business School | "A Lesson on Elementary, Worldly Wisdom" | [PDF](resources/talks/1994-lecture-by-charlie-munger-at-usc-a-lesson-on-elementary-worldly-wisdom-as-it-relates-to-investment.pdf) |
+| 1995 | Harvard | "The Psychology of Human Misjudgment" — 25 cognitive biases | [PDF](resources/talks/1995-speech-by-charlie-munger-at-harvard-the-psychology-of-human-misjudgment.pdf) |
+| 1995–1998 | Worldly Wisdom Collection | Collected worldly wisdom insights | [PDF](resources/talks/1995_to_1998_Worldly-Wisdom-by-Munger.pdf) |
+| 1996 | Stanford Law School | "Worldly Wisdom Revisited" | [PDF](resources/talks/1996-lecture-by-charlie-munger-at-stanford-law-school-worldly-wisdom-revisited-business-what-lawyers-should-know.pdf) |
+| 1996 | Practical Thought | Analysis to build a trillion-dollar business from scratch | [PDF](resources/talks/1996_Practical_thought_about_practical_thought_Mungers-analysis-to-build-a-Trillion-Dollar-Business-from-Scratch.pdf) |
+| 2000 | Philanthropy Round Table | Talk on philanthropy | [PDF](resources/talks/2000-talk-of-charlie-munger-to-breakfast-meeting-of-the-philanthropy-round-table.pdf) |
+| 2003 | UCSB | "Academic Economics: Strengths and Faults" | [PDF](resources/talks/2003-speech-by-charlie-munger-at-ucsb-academic-economics-strengths-and-faults-after-considering-interdisciplinary.pdf) |
+| 2005 | Psychology (Revised) | Updated version of the famous misjudgment speech | [PDF](resources/talks/2005_revised_The+Psychology+of+Human+Misjudment.pdf) |
+| 2007 | USC Law Commencement | Commencement address at USC Gould School of Law | [PDF](resources/talks/2007-commencement-speech-by-charlie-munger-at-usc-gould-school-of-law.pdf) · [Transcript](resources/talks/2007-USC-Law-School-Commencement-Address-by-Charlie-Munger-Transcript.pdf) |
+| 2008 | Caltech DuBridge Lecture | Wide-ranging talk on multidisciplinary thinking | [PDF](resources/talks/2008_DuBridge_Lecture.pdf) |
+| 2011 | Great Recession Parody | Charlie's humorous take on the financial crisis | [PDF](resources/talks/2011-a-parody-about-the-great-recession.pdf) |
+| 2014 | Vice Chairman's Thoughts | Reflections on business and investing | [PDF](resources/talks/2014-vice-chairmans-thoughts-past-and-future.pdf) |
+| 2017 | University of Michigan Ross | Conversation with students | [PDF](resources/talks/2017-a-conversation-with-charlie-munger-at-university-of-michigan-ross.pdf) |
 
 **Video Versions:**
 - [Charlie Munger - The Psychology of Human Misjudgment](https://www.youtube.com/watch?v=AKxE4RlCgjY) - Famous speech on cognitive biases
