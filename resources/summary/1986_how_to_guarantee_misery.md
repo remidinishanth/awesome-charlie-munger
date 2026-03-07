@@ -11,7 +11,7 @@ title: "How to Guarantee a Life of Misery — Charlie Munger (1986)"
 
 ---
 
-<img width="2644" height="1606" alt="How to Guarantee a Life of Misery" src="https://github.com/user-attachments/assets/cbd93242-57bd-406f-830f-a30ec8b67018" />
+<img alt="How to Guarantee a Life of Misery" src="https://github.com/user-attachments/assets/cbd93242-57bd-406f-830f-a30ec8b67018" style="max-width: 100%; height: auto;" />
 
 ## Overview
 
@@ -61,7 +61,7 @@ Examples of great inverters:
 
 Einstein attributed his success to: *"Curiosity, concentration, perseverance, and self-criticism."* By self-criticism, he meant the testing and destruction of his own well-loved ideas.
 
-<img width="2752" height="1536" alt="Munger's Prescriptions" src="https://github.com/user-attachments/assets/25205f71-d05c-46a6-b1f9-9b1d3716e79f" />
+<img alt="Munger's Prescriptions" src="https://github.com/user-attachments/assets/25205f71-d05c-46a6-b1f9-9b1d3716e79f" style="max-width: 100%; height: auto;" />
 
 ---
 
