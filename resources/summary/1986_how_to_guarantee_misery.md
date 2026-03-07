@@ -11,7 +11,7 @@ title: "How to Guarantee a Life of Misery — Charlie Munger (1986)"
 
 ---
 
-<img alt="How to Guarantee a Life of Misery" src="https://github.com/user-attachments/assets/cbd93242-57bd-406f-830f-a30ec8b67018" style="max-width: 100%; height: auto;" />
+<img alt="How to Guarantee a Life of Misery" src="https://github.com/user-attachments/assets/cbd93242-57bd-406f-830f-a30ec8b67018" />
 
 ## Overview
 
