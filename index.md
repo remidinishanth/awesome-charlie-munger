@@ -31,6 +31,10 @@ title: Awesome Charlie Munger
     <h3>Book Recommendations</h3>
     <p>40+ books Munger recommended across science, psychology, history, and business</p>
   </a>
+  <a href="{{ site.baseurl }}/README.html#key-quotes" class="nav-item">
+    <h3>Key Quotes</h3>
+    <p>Munger's most memorable quotes on investing, thinking, decision making, and life</p>
+  </a>
 </div>
 
 <div class="featured-book">

@@ -29,6 +29,7 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 
 ## Contents
 
+- [Key Quotes](#key-quotes)
 - [Websites](#websites)
 - [Books](#books)
 - [Speeches & Transcripts](#speeches--transcripts)
@@ -49,6 +50,44 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 - [Contribution](#contribution)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
+
+## Key Quotes
+
+> Charlie Munger's most memorable quotes on investing, thinking, and life
+
+**On Investing:**
+
+> "The big money is not in the buying and selling, but in the waiting."
+
+> "It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent."
+
+> "A great business at a fair price is superior to a fair business at a great price."
+
+**On Thinking & Learning:**
+
+> "In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time — none, zero."
+
+> "I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up and boy does that help, particularly when you have a long run ahead of you."
+
+> "Spend each day trying to be a little wiser than you were when you woke up. Discharge your duties faithfully and well. Slug it out one inch at a time, day by day. At the end of the day — if you live long enough — most people get what they deserve."
+
+**On Decision Making:**
+
+> "Invert, always invert: Turn a situation or problem upside down. Look at it backward."
+
+> "All I want to know is where I'm going to die, so I'll never go there."
+
+> "It's not supposed to be easy. Anyone who finds it easy is stupid."
+
+**On Life:**
+
+> "The best thing a human being can do is help another human being know more."
+
+> "Knowing what you don't know is more useful than being brilliant."
+
+> "The safest way to try to get what you want is to try to deserve what you want."
+
+> "Mimicking the herd invites regression to the mean."
 
 ## Websites
 
@@ -106,7 +145,7 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 | Year | Speech | Description | PDF |
 |------|--------|-------------|-----|
 | 1977–1982 | Blue Chip Stamps Letters | Annual letters as Chairman of Blue Chip Stamps | [PDF](resources/talks/Blue_chip_stamps_letters_1977_to_1982_Munger.pdf) |
-| 1986 | Harvard-Westlake Commencement | "How to Guarantee a Life of Misery" | [PDF](resources/talks/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf) |
+| 1986 | Harvard-Westlake Commencement | "How to Guarantee a Life of Misery" | [PDF](resources/talks/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf) · [Summary](resources/summary/1986_how_to_guarantee_misery.md) |
 | 1994 | USC Business School | "A Lesson on Elementary, Worldly Wisdom" | [PDF](resources/talks/1994-lecture-by-charlie-munger-at-usc-a-lesson-on-elementary-worldly-wisdom-as-it-relates-to-investment.pdf) |
 | 1995 | Harvard | "The Psychology of Human Misjudgment" — 25 cognitive biases | [PDF](resources/talks/1995-speech-by-charlie-munger-at-harvard-the-psychology-of-human-misjudgment.pdf) |
 | 1995–1998 | Worldly Wisdom Collection | Collected worldly wisdom insights | [PDF](resources/talks/1995_to_1998_Worldly-Wisdom-by-Munger.pdf) |
