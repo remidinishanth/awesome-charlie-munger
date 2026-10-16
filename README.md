@@ -94,6 +94,7 @@ Charles Thomas Munger (1924-2023) was an American investor, businessman, and phi
 > List of websites where you can find content related to Charlie Munger
 
 - [Farnam Street](https://fs.blog/) - Shane Parrish's blog about decision-making with numerous Charlie Munger articles
+- [Munger Archive: Where to Start](https://mungerarchive.com/where-to-start/) - An unofficial beginner's route through a talk, an essay, six mental models, and a free decision worksheet.
 - [Worldly Partners - Charlie Munger Archive](https://worldlypartners.com/charlie-munger-archive/) - Comprehensive archive of Charlie Munger's speeches, writings, and appearances
 - [Charlie Munger - Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger) - Wikipedia article on Charlie Munger
 - [Charlie Munger - Goodreads](https://www.goodreads.com/author/show/236437.Charles_T_Munger) - Charlie Munger's Goodreads page
